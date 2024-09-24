@@ -28,4 +28,4 @@ Fill the following template to onboard your Service {Service name} on the TLS Pl
  - [ ] AI for Customer Support
 
 
-* **Link to architectural overview diagram**: {Service description}
+* **Link to architectural overview diagram**: {Service link}
