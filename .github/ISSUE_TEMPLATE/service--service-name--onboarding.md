@@ -13,19 +13,12 @@ Fill the following template to onboard your Service {Service name} on the TLS Pl
 
 * **Service description**: {Service description} 
 
-* **Executive Sponsor**: {Service  Sponsor} 
+* **Executive Sponsor**: {Service sponsor} 
 
 * **Which Infrastructure organization are you part of ?**
- - [ ] Team A
- - [ ] Team B
- - [ ] Team C
- - [ ] Team D
+{Service owner team}
 
-* **Which is the Business are of this project ?**
- - [ ] AI for Infrastructure
- - [ ] AI for Operations
- - [ ] AI for Automation
- - [ ] AI for Customer Support
-
+* **Which is the Business of this project ?**
+{Service business}
 
 * **Link to architectural overview diagram**: {Service link}
